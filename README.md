@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Miles&fontAlign=50&fontAlignY=35&color=0:0f172a,100:2563eb&fontColor=ffffff" alt="header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=320&height=24&lines=thinking...;analyzing...;building..." alt="thinking animation" />
 </p>
 
 <p align="center">
@@ -67,7 +67,3 @@ Systems programming experiments, exercises, and focused study.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rand1804&theme=tokyo-night" alt="Contribution Activity Graph" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563eb,100:0f172a" alt="footer" />
-</p>
