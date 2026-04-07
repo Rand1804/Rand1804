@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=320&height=24&lines=thinking...;analyzing...;building..." alt="thinking animation" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Low-level+systems+builder;Embedded+and+performance-critical+code;C-first%2C+close+to+the+metal" alt="Typing SVG" />
 </p>
 
