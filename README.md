@@ -2,11 +2,17 @@
 
 **Low-level systems builder focused on embedded and performance-critical code.**
 
+```bash
+$ echo "Building low-level systems, one commit at a time..."
+```
+
 ## About Me
 
-I am a builder who primarily works through direct commits in C and related low-level languages. Since joining GitHub in 2022, my activity centers on creating and maintaining personal projects in systems programming. 
+I am a builder who primarily works through direct commits in C and related low-level languages. Since joining GitHub in 2022, my activity centers on creating and maintaining personal projects in systems programming.
 
 In the last 90 days I contributed on 7 active days across 2 public repositories, with C as the dominant language. My contribution style is heavily weighted toward building (95% commits), reflecting a focus on implementation and iteration rather than open collaboration at this stage. I maintain a small set of repositories centered on embedded systems tooling and self-directed study.
+
+I integrate modern AI tools such as OpenAI, Claude, and Gemini to accelerate exploration, code generation, and debugging while keeping full control over low-level implementation details.
 
 ## Tech Stack
 
@@ -23,6 +29,13 @@ In the last 90 days I contributed on 7 active days across 2 public repositories,
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile">
   <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Batchfile-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Batchfile">
+</p>
+
+### AI Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
 </p>
 
 ## GitHub Stats
